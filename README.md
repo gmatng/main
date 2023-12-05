@@ -55,7 +55,7 @@ This project is released under the [MIT License](LICENSE.md).
 
 ## Contact Information
 
-If you have questions or need assistance, you can reach out to us via email at [gmatng@gmatng.com](mailto:gmatos@gmatng.com).
+If you have questions or need assistance, you can reach out to us via email at [gmatos@gmatng.com](mailto:gmatos@gmatng.com).
 
 ---
 
